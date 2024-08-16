@@ -11,26 +11,53 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "About Us",
+            "altText": "About Us",
+            "url": "/About Us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Our Services",
+            "altText": "Our Services",
+            "url": "/Our Services",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+          {
+            "label": "Our Partners",
+            "altText": "Our Partners",
+            "url": "/Our Partners",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+           {
+            "label": "Our Clients",
+            "altText": "Our Clients",
+            "url": "/Our Clients",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+           {
+            "label": "Contact Us",
+            "altText": "Contact Us",
+            "url": "/Contact Us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
