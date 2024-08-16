@@ -1,71 +1,70 @@
 {
-    "logo": {
-        "url": "https://static.vecteezy.com/system/resources/previews/005/068/095/original/sankofa-bird-logo-simple-style-black-and-white-illustration-free-vector.jpg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
+  "logo": {
+    "url": "https://static.vecteezy.com/system/resources/previews/005/068/095/original/sankofa-bird-logo-simple-style-black-and-white-illustration-free-vector.jpg",
+    "altText": "Logo dark",
+    "styles": {
+      "self": {
+        "margin": ["mr-3"]
+      }
     },
-    "primaryLinks": [
-        {
-            "label": "Home",
-            "url": "/Home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "About Us",
-            "altText": "About Us",
-            "url": "/About Us",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Our Services",
-            "altText": "Our Services",
-            "url": "/Our Services",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-          {
-            "label": "Our Partners",
-            "altText": "Our Partners",
-            "url": "/Our Partners",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-           {
-            "label": "Our Clients",
-            "altText": "Our Clients",
-            "url": "/Our Clients",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-           {
-            "label": "Contact Us",
-            "altText": "Contact Us",
-            "url": "/Contact Us",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        
-    ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "ImageBlock"
+  },
+  "primaryLinks": [
+    {
+      "label": "Home",
+      "url": "/Home",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    },
+    {
+      "label": "About Us",
+      "altText": "About Us",
+      "url": "/About Us",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    },
+    {
+      "label": "Our Services",
+      "altText": "Our Services",
+      "url": "/Our Services",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    },
+    {
+      "label": "Our Partners",
+      "altText": "Our Partners",
+      "url": "/Our Partners",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    },
+    {
+      "label": "Our Clients",
+      "altText": "Our Clients",
+      "url": "/Our Clients",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    },
+    {
+      "label": "Contact Us",
+      "altText": "Contact Us",
+      "url": "/Contact Us",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    }
+  ],
+  "variant": "logo-left-primary-nav-centered",
+  "colors": "bg-light-fg-dark",
+  "type": "Header"
 }
