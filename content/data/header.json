@@ -1,18 +1,18 @@
 {
   "logo": {
-    "url": "https://static.vecteezy.com/system/resources/previews/005/068/095/original/sankofa-bird-logo-simple-style-black-and-white-illustration-free-vector.jpg",
-    "altText": "Logo dark",
+    "text": "Dindi Joseph",
     "styles": {
       "self": {
-        "width": "50px",
-        "height": "50px",
+        "fontSize": "20px",
+        "fontWeight": "bold",
+        "color": "#000000",
         "margin": ["mr-3"],
         "position": "absolute",
         "top": "20px",
         "left": "10px"
       }
     },
-    "type": "ImageBlock"
+    "type": "TextBlock"
   },
   "primaryLinks": [
     {
